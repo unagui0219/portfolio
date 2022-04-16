@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    <PageTitle title="About" />
+  <div class="lang">
+    <PageTitle title="Lang" />
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 import PageTitle from "@/components/PageTitle.vue";
 
 export default {
-  name: "About",
+  name: "Lang",
   components: {
     PageTitle,
   },
