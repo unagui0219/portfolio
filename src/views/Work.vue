@@ -1,6 +1,8 @@
 <template>
   <div class="work">
     <PageTitle title="Work" />
+
+    <h2>Coming soon ...</h2>
   </div>
 </template>
 
@@ -14,3 +16,9 @@ export default {
   },
 };
 </script>
+
+<style>
+.work {
+  text-align: center;
+}
+</style>
