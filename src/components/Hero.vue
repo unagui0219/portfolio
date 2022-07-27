@@ -1,9 +1,25 @@
 <template>
   <div class="hero">
-    <h1>u.h.</h1>
+    <h1>Hayato Unagibuchi</h1>
   </div>
 </template>
-<script></script>
+<script>
+export default {
+  data() {
+    return {
+      isFirstScene: false,
+    };
+  },
+  mounted() {
+    this.showFirstScene;
+  },
+  methods: {
+    showFirstScene() {
+      this.isFirstScene = true;
+    },
+  },
+};
+</script>
 <style>
 .hero {
   font-family: "Nanum Myeongjo", sans-serif;

@@ -6,7 +6,7 @@
         <img class="self-img" />
       </div> -->
       <div class="self-text_cover">
-        <h2>u.h. (鰻渕勇斗)</h2>
+        <h2>鰻渕勇斗(Unagibuchi Hayato)</h2>
         <div class="self-text">
           <p>初めまして。鰻渕勇斗と申します。</p>
           <p>

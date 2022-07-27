@@ -37,7 +37,7 @@ var interestItems = [
   },
   {
     title: "興味のある趣味",
-    content: "キャンプ、釣り、バイク",
+    content: "キャンプ、釣り",
   },
 ];
 </script>
